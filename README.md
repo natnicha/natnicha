@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # 👋 Hi, I'm Natnicha Rodtong
 
 **Backend Engineer | Open-Source Contributor**  
