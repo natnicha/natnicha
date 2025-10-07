@@ -8,8 +8,8 @@ I'm a passionate **Senior Backend Engineer** with **7+ years of experience** bui
 
 ## 🌟 About Me
 
-- 🎓 **Master’s Degree** in Informatik (Web Engineering), Technische Universität Chemnitz (Germany)
-- 📚 **Bachelor's Degree** in Computer Engineering, Technische King Mongkut's University of Technology Thonburi (Thailand)
+- 🎓 **Master’s Degree** in Computer Science (Web Engineering), Technische Universität Chemnitz (Germany)
+- 📚 **Bachelor's Degree** in Computer Engineering, King Mongkut's University of Technology Thonburi (Thailand)
 - 💻 **Specialties:** Backend Development, Microservices, Kubernetes
 - ⚡ **Languages:**  Go, Python, Java, TypeScript
 - 🌐 Fully **remote-work experienced** for 3+ years  
@@ -25,6 +25,7 @@ I'm a passionate **Senior Backend Engineer** with **7+ years of experience** bui
 [<img src="./assets/logo/fastAPI.svg" height="48">](https://fastapi.tiangolo.com/)
 [<img src="./assets/logo/flask.svg" height="48">](https://flask.palletsprojects.com/en/stable/)
 [<img src="./assets/logo/java.svg" height="48">](https://www.java.com/en/)
+[<img src="./assets/logo/spring-boot.svg" height="48">](https://spring.io/projects/spring-boot)
 [<img src="./assets/logo/microsoft-sql-server.svg" height="48">](https://github.com/)
 [<img src="./assets/logo/mongoDB.svg" height="48">](https://www.mongodb.com/)
 [<img src="./assets/logo/postgreSQL.svg" height="48">](https://www.postgresql.org/)
